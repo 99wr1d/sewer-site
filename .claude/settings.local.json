@@ -10,7 +10,8 @@
       "Bash(npm run build:*)",
       "Bash(npm run dev:*)",
       "Bash(gh auth status:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nInitial commit: Leysan.ya website\n\nFeatures:\n- Next.js 16 + TypeScript + Tailwind CSS\n- Bilingual support \\(Russian/Kazakh\\) with next-intl\n- Product catalog with categories \\(towels, robes\\)\n- Contact via WhatsApp, Telegram, Instagram\n- Responsive design with shadcn/ui components\n\nPages: Home, Catalog, Gallery, About, Delivery, Contacts, FAQ\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
     ]
   }
 }
